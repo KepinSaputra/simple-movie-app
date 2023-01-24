@@ -1,0 +1,12 @@
+{
+    "emmet.includeLanguages": {
+       "javascript": "javascriptreact"
+   },
+   "emmet.preferences": {
+   
+  },
+  "files.associations": {
+    "*.env.development": "env",
+    "*.env.production": "env"
+  }
+ }
